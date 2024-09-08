@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bowen Gao / Personal Page"
+title                    : "Bowen Gao's Personal Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Bowen.png"
-  name             : "Bowen Gao"
+  name             : "Bowen Gao (高博文)"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Taiyuan, China"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "Bowen-Gao@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3109-1772"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Bowen-Gao-5"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/bowen-gao-944a5614b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/BowenGao3"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
