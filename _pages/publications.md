@@ -9,12 +9,16 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## 2024
-* Yuhang Xu, Zixuan Liu, Xinzhe Fu, **Shengzhong Liu**, Fan Wu, Guihai Chen, "FLEX: Adaptive Task Batch Scheduling with Elastic Fusion in Multi-Modal Multi-View Machine Perception", in Proc. IEEE RTSS, York, UK, December 2024.
-* Tomoyoshi Kimura, Jinyang Li, Tianshi Wang, Yizhuo Chen, Ruijie Wang, Denizhan Kara, Maggie Wigness, Joydeep Bhattacharyya, Mudhakar Srivatsa, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "VibroFM: Towards Micro Foundation Models for Robust Multimodal IoT Sensing", in Proc. IEEE MASS, Seoul, South Korea, September 2024.
-* Ruijie Wang, Jingyuan Huang, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, **Shengzhong Liu**, Charith Mendis, Tarek Abdelzaher, "TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-Learning", in Proc. ACM SIGIR, Washington DC, USA, July 2024.
-* Ruijie Wang, Yutong Zhang, Jinyang Li, **Shengzhong Liu**, Dachun Sun, Tianchen Wang, Tianshi Wang, Yizhuo Chen, Denizhan Kara, Tarek Abdelzaher, "MetaHKG: Meta Hyperbolic Learning for Few-shot Temporal Reasoning", in Proc. ACM SIGIR, Washington DC, USA, July 2024.
-* Tomoyoshi Kimura, Jinyang Li, Tianshi Wang, Denizhan Kara, Yizhuo Chen, Yigong Hu, Ruijie Wang, Maggie Wigness, **Shengzhong Liu**, Mani Srivastava, Suhas Diggavi, Tarek Abdelzaher, "On the Efficiency and Robustness of Vibration-based Foundation Models for IoT Sensing: A Case Study", in Proc. FM-Sys Workshop (at CPS-IoT Week), Hong Kong, China, May 2024.
-* Yigong Hu, Ila Gokarn, **Shengzhong Liu**, Archan Misra, Tarek Abdelzaher, "Algorithms for Canvas-based Attention Scheduling with Resizing", in Proc. IEEE RTAS, Hong Kong, May 2024.
-* Denizhan Kara, **Shengzhong Liu**, Jinyang Li, Dongxin Liu, Tianshi Wang, Ruijie Wang, Yizhuo Chen, Yigong Hu, Tarek Abdelzaher, "FreqMAE: Frequency-Aware Masked Autoencoder for Multi-Modal IoT Sensing", in Proc. WWW, Singapore, May 2024.
-* **Shengzhong Liu**, Shuochao Yao, Xinzhe Fu, Rohan Tabish, Simon Yu, Ayoosh Bansal, Heechul Yun, Lui Sha, Tarek Abdelzaher, "Taming Algorithmic Priority Inversion in Mission-critical Perception Pipelines", in Communications of ACM - Research Highlights, Volume 67, Issue 2, January 2024.
+
+
+* **Gao B.**, Chen N., Zhang D., Xu Y., Weng X., Gao W., & Jiang X. (2024). Large-scale mapping of yardangs in the Qaidam Basin using deep learning and effects of multiple environmental factors on yardang development. Geomorphology. (Revision submitted)  
+* Gao, W., Chen, N., Chen, J., **Gao, B.**, Xu, Y., Weng, X., & Jiang, X. (2024). A novel and extensible remote sensing collaboration platform: architecture design and prototype implementation. ISPRS International Journal of Geo-information, 13(3), 83. https://doi.org/10.3390/ijgi13030083  
+* Xu, Y., Chen, N., Zhang, D., **Gao, B.**, Weng, X., & Qiu, H. (2024). Yardang-controlled dune morphology and dynamics in the Qaidam Basin: Insight from remote sensing and numerical simulations. Catena, 235, 107697. https://doi.org/10.1016/j.catena.2023.107697  
+* Lin N., Xu Y., **Gao B.**, Weng X., & Chen N. (2021). Semi-automatic extraction of triangular facet attitude based on edge extraction algorithm (in Chinese). Earth Science-Journal of China University of Geosciences, 46(10), 3753-3763. 林楠, 徐遥辰, **高博文**, 翁旭华, 陈宁华, 2021. 基于边缘提取算法的岩层三角面产状半自动提取. 地球科学, 46(10), 3753-3763. https://doi.org/10.3799/dqkx.2021.060  
+* Xu, Y., Chen, N., Tao, C., Jian-Yu, C., & **Gao, B.** (2021). Magmato-tectonic mechanism of Southwest Indian Ridge (49°-50°E) inferred from quantitative morphotectonic analysis based on high-resolution multibeam bathymetry. Marine Geology, 434, 106421. https://doi.org/10.1016/j.margeo.2021.106421  
+* **Gao, B.**, Chen, N., Blaschke, T., Wu, C. Q., Chen, J., Xu, Y., Yang, X., & Du, Z. (2021). Automated characterization of yardangs using deep convolutional neural networks. Remote Sensing, 13(4), 733. https://doi.org/10.3390/rs13040733  
+* Zhang, H., Chen, N., **Gao, B.**, Xu, Y., & Chen, J. (2020). Semi-automatic mapping of dyke and dyke-related fractures using UAV-based photogrammetric data: A case study from Sijiao Island, coastal Southeastern China. Journal of Structural Geology, 132, 103971. https://doi.org/10.1016/j.jsg.2019.103971  
+
+
+
+
