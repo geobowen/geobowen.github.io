@@ -16,8 +16,8 @@ I am seeking challenging opportunities where I can apply technical expertise and
 
 Research Interest
 ======
-· Remote Sensing Image Analysis  
-· Geospatial Data Science  
-· (Deep) Machine Learning Application in the field of Earth Observation  
-· Geomorphology  
+- Remote Sensing Image Analysis  
+- Geospatial Data Science  
+- (Deep) Machine Learning Application in the field of Earth Observation  
+- Geomorphology  
 
