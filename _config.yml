@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bowen Gao's Personal Page"
+title                    : "Bowen Gao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "Bowen.png"
   name             : "Bowen Gao (高博文)"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A dedicated and accomplished PhD graduate specializing in Remote Sensing and GIS, seeking challenging opportunities related to (geospatial) data science/deep learning"
   location         : "Taiyuan, China"
-  employer         : #"Red Brick University"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "Bowen-Gao@outlook.com" 
 
