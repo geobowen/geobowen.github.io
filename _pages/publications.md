@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 
-
 * **Gao B.**, Chen N., Zhang D., Xu Y., Weng X., Gao W., & Jiang X. (2024). Large-scale mapping of yardangs in the Qaidam Basin using deep learning and effects of multiple environmental factors on yardang development. Geomorphology. (Revision submitted)  
 * Gao, W., Chen, N., Chen, J., **Gao, B.**, Xu, Y., Weng, X., & Jiang, X. (2024). A novel and extensible remote sensing collaboration platform: architecture design and prototype implementation. ISPRS International Journal of Geo-information, 13(3), 83. https://doi.org/10.3390/ijgi13030083  
 * Xu, Y., Chen, N., Zhang, D., **Gao, B.**, Weng, X., & Qiu, H. (2024). Yardang-controlled dune morphology and dynamics in the Qaidam Basin: Insight from remote sensing and numerical simulations. Catena, 235, 107697. https://doi.org/10.1016/j.catena.2023.107697  
