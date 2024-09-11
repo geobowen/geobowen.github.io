@@ -58,7 +58,7 @@ Research Experience
   
 Languages
 ======
-* :🇨🇳: Chinese (Native)
+* Chinese (Native)
 * English (Proficient//C1)
 * French (Conversational)
 * German (Beginner)
