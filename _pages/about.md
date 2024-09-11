@@ -10,7 +10,7 @@ I am a dedicated and accomplished PhD specializing in Remote Sensing and Geograp
 
 I am seeking challenging opportunities where I can apply technical expertise and research experience in solving real-world problems and developing innovative solutions for diverse fields. I am confident that being well-motivated, diligent, detail-oriented, and analytical I should be able to contribute to the future success of my employer. 
 
-**You can find my CV here**: [CV](../assets/Bowen_Gao_CV_September_2024.pdf)/[简历]（../assets/高博文_简历_2024.pdf）
+**You can find my CV here**: [CV](../assets/Bowen_Gao_CV_September_2024.pdf)/[简历](../assets/高博文_简历_2024.pdf)
 
 
 
