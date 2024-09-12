@@ -85,4 +85,6 @@ Teaching
 
 Service and leadership
 ======
-* TODO
+* College Counselor, Chu Kochen Honors College at Zhejiang University, 2018-2019
+* Leader, Choir of the Graduate Art Troupe at Zhejiang University, 2018-2019
+* Vice Director, Publicity Department of the Doctoral Students’ Union at Zhejiang University, 2017-2018
